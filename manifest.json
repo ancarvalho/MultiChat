@@ -1,6 +1,6 @@
 {
   "name": "Multi-Platform Chat",
-  "short_name": "MutiChat",
+  "short_name": "MultiChat",
   "description": "A multi-platform chat client for Twitch, Kick, and YouTube.",
   "start_url": ".",
   "display": "standalone",
@@ -8,7 +8,7 @@
   "theme_color": "#a970ff",
   "icons": [
     {
-      "src": "/assets/logo.svg",
+      "src": "assets/logo.svg",
       "type": "image/svg+xml",
       "sizes": "any"
     }
