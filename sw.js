@@ -4,13 +4,13 @@ const CACHE_FILES = [
   "index.html",
   "static/style.min.css",
   "static/app.min.js",
-  "assets/kick.svg",
-  "assets/twitch.svg",
-  "assets/youtube.svg",
-  "assets/moderator.svg",
-  "assets/verified.svg",
-  "assets/founder.svg",
-  "assets/logo.svg",
+  "static/assets/kick.svg",
+  "static/assets/twitch.svg",
+  "static/assets/youtube.svg",
+  "static/assets/moderator.svg",
+  "static/assets/verified.svg",
+  "static/assets/founder.svg",
+  "static/assets/logo.svg",
   "https://cdn.jsdelivr.net/npm/pusher-js@8.3.0/dist/web/pusher.min.js"
 ];
 
